@@ -34,7 +34,7 @@ CoinGecko &emsp; &emsp; &emsp; &emsp; &emsp; Mac 2022 - Sept 2022
 
 
 ## Technical Skills
-__Professional Certificates__
+__Professional Certificates__  
 Huawei Certified ICT Associate(HCIA) - Routing & Switching  
 _Valid Date : Sept 2021 - Sept 2024_  
 
