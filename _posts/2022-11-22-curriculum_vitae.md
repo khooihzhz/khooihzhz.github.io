@@ -10,8 +10,7 @@ pin: true
 
 | Information   | Details                         |
 |:--------------|:--------------------------------|
-|Location       | Sungai Siput(U), Perak, Malaysia|
-|Phone Number   | +6016-5010768                   |
+|Location       | Perak, Malaysia|
 |E-mail         | [khooihongzhe@gmail.com](mailto: khooihongzhe@gmail.com)          |
 |Github         | [https://github.com/khooihzhz](https://github.com/khooihzhz)    |
 
