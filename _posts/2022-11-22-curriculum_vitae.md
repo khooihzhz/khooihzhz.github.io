@@ -49,10 +49,10 @@ Windows, Ubuntu, Kali Linux
 
 
 ## Achievements
-__Huawei ICT Competition National Finals 2022/2023__  
+__Huawei ICT Competition National Finals 2022/2023__ [Link](https://e.huawei.com/en/talent/#/ict-academy/ict-competition/regional-competition?zoneCode=050133&zoneId=98269529&compId=85131973&divisionName=Asia%20Pacific&type=C001)  
 2nd Place
 
-__Algorand X Reach X WIBA Blockchain Hackathon 2022__  
+__Algorand X Reach X WIBA Blockchain Hackathon 2022__ [Link](https://allevents.in/kuala%20lumpur/algorand-reach-intervarsity-hackathon-by-wiba/10000471677779937)    
 Top 10 Finalists  
 
 __Codenection 2022__  [Link](https://www.itscodenection.com/)  
