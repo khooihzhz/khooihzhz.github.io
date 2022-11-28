@@ -4,4 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-I'm an undergraduate Computer Science student from Universiti Sains Malaysia. I'm interested in CyberSecurity, DevOps and Blockchain. Feel free to message me!
+I'm an undergraduate Computer Science student from [Universiti Sains Malaysia](https://cs.usm.my/). I'm interested in CyberSecurity, DevOps and Blockchain. Feel free to message me!
