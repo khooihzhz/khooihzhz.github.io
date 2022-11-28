@@ -12,8 +12,8 @@ pin: true
 |:--------------|:--------------------------------|
 |Location       | Sungai Siput(U), Perak, Malaysia|
 |Phone Number   | +6016-5010768                   |
-|E-mail         | khooihongzhe@gmail.com          |
-|Github         | https://github.com/khooihzhz    |
+|E-mail         | [khooihongzhe@gmail.com](mailto: khooihongzhe@gmail.com)          |
+|Github         | [https://github.com/khooihzhz](https://github.com/khooihzhz)    |
 
 ## Education
 __Bachelor of Computer Science (Honours)__  
@@ -53,12 +53,12 @@ __Huawei ICT Competition National Finals 2022/2023__
 2nd Place
 
 __Algorand X Reach X WIBA Blockchain Hackathon 2022__  
-Top 10 Finalists
+Top 10 Finalists  
 
-__Codenection 2022__  
+__Codenection 2022__  [Link](https://www.itscodenection.com/)  
 6th Place
 
-__V Hack USM 2022__  
+__V Hack USM 2022__  [Link](https://vhackusm.com/)  
 11th Place 
 
 
